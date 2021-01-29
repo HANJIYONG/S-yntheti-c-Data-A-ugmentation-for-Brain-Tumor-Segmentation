@@ -2,3 +2,4 @@
 2020 Summer KICS conference
 
 ![paper1](./imgs/논문1.JPG)
+![paper2](./imgs/논문2.JPG)
